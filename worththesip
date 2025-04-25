@@ -1,0 +1,9 @@
+# go to a folder where you keep code
+cd ~/Projects   # or any directory you like
+gh repo create worth-the-sip --public --clone
+# answers:
+# • “Yes, create it on GitHub”
+# • “Public”
+# • “Clone the repo locally”
+# You’ll land inside the new folder.
+cd worth-the-sip
